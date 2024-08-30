@@ -16,7 +16,7 @@ The **APRS Frequency Monitor** a kivy application modeled after APRSISCE/32's Fr
 
 ## Screenshot
 
-![APRS Frequency Monitor Screenshot](screenshot.png)
+![APRS Frequency Monitor Screenshot](img.png)
 
 ## Acknowledgments
 
