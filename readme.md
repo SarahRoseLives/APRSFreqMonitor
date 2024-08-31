@@ -21,3 +21,4 @@ The **APRS Frequency Monitor** a kivy application modeled after APRSISCE/32's Fr
 ## Acknowledgments
 
 - **APRSISCE/32**: Special thanks to the developers of APRSISCE/32 for their inspiration and contributions to the amateur radio community.
+- **PLYER**: GPS Functionality is taken directly from the example.
